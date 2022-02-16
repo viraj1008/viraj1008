@@ -1,4 +1,4 @@
-### Hi, I'm Viraj Pande, I'm a data scientist who recently graduated with a Master's in Applied Data Science from the University of Michigan. I have a background in clinical health care and health care technology, and I'm passionate about innovative technological advancements in realms of health care and sustainability. 
+### Hi, I'm Viraj Pande, I'm a data scientist who recently graduated with a Master's in Applied Data Science from the University of Michigan's School of Information. I have a background in clinical health care and health care technology, and I'm passionate about innovative technological advancements in realms of health care and sustainability. 
 
 - 🔭 I’m currently working on intelligent solutions to alleviate clerical burden in clinical practices, with a focus on prior authorizations 
 - 🌎 I'm looking to collaborate on projects that use data science for social and environmental good
