@@ -5,5 +5,5 @@
 - ⚡ I'm passionate about creative uses of data science and statistics as well, specifically novel approaches to understanding and addressing societal issues
 - 🎶 In my free time I love to read books, spend time in nature, and produce music
 - How to reach me:
-  - 🏢 [LinkedIn:](https://www.linkedin.com/in/viraj--p/)
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/viraj--p/)
 
